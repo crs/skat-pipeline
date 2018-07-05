@@ -1,0 +1,5 @@
+---
+runConfiguration : 'init/debug.py' 
+#runConfiguration : 'init/release.py'
+bedFolder : 'bed/'
+refGene : 'ref/refGene.txt.hg19'
